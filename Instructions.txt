@@ -1,0 +1,2 @@
+conda env create -f digit_recognition.yml
+http://neuralnetworksanddeeplearning.com/chap2.html
